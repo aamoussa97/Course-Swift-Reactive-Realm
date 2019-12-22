@@ -1,0 +1,37 @@
+{
+  "persons": [
+      {
+          "id": "1",
+          "firstName": "Steve",
+          "lastName": "Jobs",
+          "age": 0,
+          "animals": [
+              {
+                  "id": "1",
+                  "name": "Fido"
+              },
+              {
+                  "id": "2",
+                  "name": "Balou"
+              }
+          ]
+      },
+      {
+          "id": "2",
+          "firstName": "Tim",
+          "lastName": "Cook",
+          "age": 50,
+          "animals": [
+              {
+                  "id": "10",
+                  "name": "Jack"
+              },
+              {
+                  "id": "11",
+                  "name": "Rocky"
+              }
+          ]
+      }
+
+  ]
+}

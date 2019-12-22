@@ -1,0 +1,197 @@
+{
+  "Animal": [
+    {
+      "id": "MOB8bzOEU9C1SnXo3eM",
+      "name": "Heimdall"
+    },
+    {
+      "id": "Ysz6-RrCdsY_XEocqoE",
+      "name": "Tyr"
+    },
+    {
+      "id": "4rgKTyK8-nAqwalY9fc",
+      "name": "Loki"
+    },
+    {
+      "id": "FCa69ZXj-I7POlVQmbM",
+      "name": "Fido"
+    },
+    {
+      "id": "Yy1bygdrF_NmKwPGtQY",
+      "name": "Balou"
+    },
+    {
+      "id": "Z5DiB9GjeTLf3xBilZQ",
+      "name": "Odin"
+    },
+    {
+      "id": "2gdztjU_9SKj_ECeCb0",
+      "name": "Jack"
+    },
+    {
+      "id": "5tYVql7x_Gjcs5I8dW8",
+      "name": "Rocky"
+    },
+    {
+      "id": "V4Vne3qBBI43hN-KzT8",
+      "name": "Thor"
+    },
+    {
+      "id": "GYXSjIpGu2DB03GZ6J0",
+      "name": "Hel"
+    },
+    {
+      "id": "cCCONLTmHXQimg0yvCQ",
+      "name": "Baldr"
+    },
+    {
+      "id": "JQDWNSmZftqmW84GZoo",
+      "name": "Fenris"
+    },
+    {
+      "id": "XjL83L9DUKdYkPwSE_s",
+      "name": "Frigg"
+    },
+    {
+      "id": "CrLDCsE_AYIbfrgrmqw",
+      "name": "Freya"
+    },
+    {
+      "id": "zwzYaYtE28YYPHY_VN8",
+      "name": "Woody"
+    }
+  ],
+  "Car": [
+    {
+      "id": "1",
+      "name": "Tesla Model X",
+      "horsePower": 250
+    },
+    {
+      "id": "2",
+      "name": "Tesla Model 3",
+      "horsePower": 170
+    }
+  ],
+  "Person": [
+    {
+      "id": "3",
+      "firstName": "Ali",
+      "lastName": "Moussa",
+      "age": 22,
+      "birthYear": 1997,
+      "animals": [],
+      "cars": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "id": "eg0YDAQ38CMemz8fa0U",
+      "firstName": "Stan",
+      "lastName": "Lee",
+      "age": 31,
+      "birthYear": null,
+      "animals": [],
+      "cars": []
+    },
+    {
+      "id": "Jcehj2ybknz209F7c6I",
+      "firstName": "Clint",
+      "lastName": "Barton",
+      "age": 39,
+      "birthYear": null,
+      "animals": [],
+      "cars": []
+    },
+    {
+      "id": "jqxijCSfoDmfRlHCYv0",
+      "firstName": "Craig",
+      "lastName": "Federighi",
+      "age": 50,
+      "birthYear": null,
+      "animals": [
+        "zwzYaYtE28YYPHY_VN8"
+      ],
+      "cars": []
+    },
+    {
+      "id": "jth9c9iiMP9dN-bYcrQ",
+      "firstName": "Goose",
+      "lastName": "The Cat",
+      "age": 8,
+      "birthYear": null,
+      "animals": [],
+      "cars": []
+    },
+    {
+      "id": "L4_ATcIPPod_voPj2C0",
+      "firstName": "Tony",
+      "lastName": "Stark",
+      "age": 48,
+      "birthYear": null,
+      "animals": [
+        "2gdztjU_9SKj_ECeCb0",
+        "5tYVql7x_Gjcs5I8dW8"
+      ],
+      "cars": []
+    },
+    {
+      "id": "lzsRoTUeR4uVE5WfQrM",
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "age": 27,
+      "birthYear": null,
+      "animals": [],
+      "cars": []
+    },
+    {
+      "id": "pZdrc5sJt60PvNZyeh0",
+      "firstName": "Carol",
+      "lastName": "Danvers",
+      "age": 36,
+      "birthYear": null,
+      "animals": [
+        "FCa69ZXj-I7POlVQmbM",
+        "Yy1bygdrF_NmKwPGtQY"
+      ],
+      "cars": []
+    },
+    {
+      "id": "VDxSKEry1T-GAuOJTU8",
+      "firstName": "Henry",
+      "lastName": "Mccoy",
+      "age": 55,
+      "birthYear": null,
+      "animals": [],
+      "cars": []
+    },
+    {
+      "id": "y81WX0moIwV0t4X1Apw",
+      "firstName": "Natasha",
+      "lastName": "Romanoff",
+      "age": 32,
+      "birthYear": null,
+      "animals": [],
+      "cars": []
+    },
+    {
+      "id": "yh4pCWQbllyxmtT1dNg",
+      "firstName": "Bruce",
+      "lastName": "Banner",
+      "age": 45,
+      "birthYear": null,
+      "animals": [],
+      "cars": []
+    },
+    {
+      "id": "Zbj3hLYYYazvyjRlMCg",
+      "firstName": "Charles",
+      "lastName": "Xavier",
+      "age": 61,
+      "birthYear": null,
+      "animals": [],
+      "cars": []
+    }
+  ]
+}
