@@ -14,6 +14,7 @@ Following exercises has been solved:
 - [x] Realm + RxSwift: Fetch animals from the server, and save it into the database. - (4.a)
 - [x] Realm + RxSwift: Voluntary: Visualise animals in the application through 'realm.objects(Animals.self).observe'. - (4.b)
 
+<!---
 ## Screenshots
 <div>
 <img src="/Screenshots/Screenshot_1.png?raw=true" height="500" width="250"/>
@@ -26,3 +27,4 @@ Following exercises has been solved:
 <div>
 <img src="/Screenshots/Screenshot_3.png?raw=true" height="500" width="250"/>
 </div>
+-->
