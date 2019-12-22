@@ -2,7 +2,7 @@
 Reactive programming and Realm DB exercise from guest lecture by Overallapps IVS, in course [62417 Mobile Application Development with Swift](https://kurser.dtu.dk/course/62417) lesson 8. [Starter/demo project](https://gitlab.com/overallapps/demo-ios), and [Swagger documentation](https://demo.overallapps.com/docs/index.html).
 
 ## What I Learned
-* Reactive programming
+* Reactive programming: subscribeOn, observeOn, onError, onNext etc.
 * Realm as database
 * RxSwift, RxAlamofire, RxSwifyJSON
 
